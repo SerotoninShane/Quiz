@@ -1,4 +1,4 @@
-# Quiz Application README
+# Quiz Application
 
 This JavaScript application creates an interactive quiz with multiple-choice questions. It includes functionality for displaying questions, handling user responses, and visual effects for interactions.
 
